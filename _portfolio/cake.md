@@ -3,7 +3,7 @@ layout: post
 title: Cake
 feature-img: "assets/img/portfolio/cake.png"
 img: "assets/img/portfolio/cake.png"
-date: 25  January  2025
+date: 2  January  2025
 tags: [Lorem, Ipsum]
 ---
 
