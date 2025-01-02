@@ -8,13 +8,11 @@ tags: [Lorem]
 
 ![image]({{ page.img | relative_url }})
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 
-eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, 
-adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem. 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
-Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, 
-vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+No one is exempt from the pain of suffering, nor do they flee from it, but because the consequence of great pain leads those who do not know the reason for it.
+
+Nor is there anyone who would have the right to claim relief for the pain of being, but the person may suffer from it, thus we seek out great joy or comfort in the process of work and pain.
+
+For the sake of minimal things, we do not give up on the laborious nature of working for ourselves, unless we achieve a result that we can rely upon.
+
+Who would not want a just person to be free of suffering or the kind of distress that is inflicted upon them by that very nature?"
 
